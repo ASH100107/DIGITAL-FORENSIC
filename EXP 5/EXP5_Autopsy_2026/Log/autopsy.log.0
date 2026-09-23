@@ -1,0 +1,100 @@
+2026-09-07 22:47:47.222 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2026-09-07 22:47:47.326 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting local Solr SOLR8 server
+2026-09-07 22:47:47.333 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2026-09-07 22:47:47.333 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Local Solr SOLR8 server is already running
+2026-09-07 22:47:47.338 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2026-09-07 22:47:48.641 org.sleuthkit.autopsy.keywordsearch.Server$Collection <init>
+INFO: Using Solr document queue size = 30
+2026-09-07 22:47:48.951 org.sleuthkit.autopsy.imagegallery.PerCaseProperties getConfigSetting
+INFO: File did not exist. Created file [Image Gallery.properties]
+2026-09-07 22:47:49.212 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.49.1.0 loaded in native mode
+2026-09-07 22:47:49.406 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened EXP5_Autopsy_2026 (exp5_autopsy_2026_20260907_224744) in D:\DIGITAL FORENSIC\EXP 5\EXP5_Autopsy_2026 as the current case
+2026-09-07 22:47:50.783 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2026-09-07 22:47:51.848 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:47:54.807 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:47:55.379 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent <init>
+INFO: Created DataContentTopComponent instance: org.sleuthkit.autopsy.corecomponents.DataContentTopComponent[Data Content,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=256,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:47:55.739 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Cyber Triage Malware Scanner, version = 1.0.0
+2026-09-07 22:47:55.792 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Central Repository, version = 4.23.1
+2026-09-07 22:47:55.895 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.23.1
+2026-09-07 22:47:55.949 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = DJI Drone Analyzer, version = 4.23.1
+2026-09-07 22:47:56.052 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.23.1
+2026-09-07 22:47:56.098 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.23.1
+2026-09-07 22:47:56.174 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.23.1
+2026-09-07 22:47:56.243 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.23.1
+2026-09-07 22:47:56.343 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.23.1
+2026-09-07 22:47:56.343 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.23.1
+2026-09-07 22:47:56.447 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Android Analyzer (aLEAPP), version = 4.23.1
+2026-09-07 22:47:56.447 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = iOS Analyzer (iLEAPP), version = 4.23.1
+2026-09-07 22:47:56.547 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2026-09-07 22:47:56.652 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Picture Analyzer, version = 4.23.1
+2026-09-07 22:47:56.709 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Plaso, version = 4.23.1
+2026-09-07 22:47:56.767 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.23.1
+2026-09-07 22:47:56.827 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = YARA Analyzer, version = 4.23.1
+2026-09-07 22:47:56.873 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.23.1
+2026-09-07 22:47:56.878 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.23.1
+2026-09-07 22:47:56.881 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.23.1
+2026-09-07 22:47:56.943 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = GPX Parser, version = 1.2
+2026-09-07 22:47:56.944 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.23.1
+2026-09-07 22:47:58.882 com.basistech.df.cybertriage.autopsy.ctapi.CTCloudHttpClient createSSLContext
+INFO: Creating custom SSL context
+2026-09-07 22:47:58.884 com.basistech.df.cybertriage.autopsy.ctapi.CTCloudHttpClient getKeyManagers
+INFO: Using default algorithm to create trust store: SunX509
+2026-09-07 22:47:58.884 com.basistech.df.cybertriage.autopsy.ctapi.CTCloudHttpClient getTrustManagers
+INFO: Using default algorithm to create trust store: PKIX
+2026-09-07 22:47:59.141 com.basistech.df.cybertriage.autopsy.incidentoptions.CTSettings getAppDataLocalDirectory
+INFO: Application Data Path: C:\Users\ashra\AppData\Local\cybertriage
+2026-09-07 22:49:07.524 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Stopping Solr 8 server
+2026-09-07 22:49:07.525 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Setting Solr 8 directory: C:\Program Files\Autopsy-4.23.1\autopsy\solr
+2026-09-07 22:49:07.526 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Running Solr 8 command: [C:\Program Files\Autopsy-4.23.1\autopsy\solr\bin\autopsy-solr.cmd, stop, -k, jjk#09s, -p, 23232] from C:\Program Files\Autopsy-4.23.1\autopsy\solr
+2026-09-07 22:49:07.543 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Finished running Solr 8 command
+2026-09-07 22:49:07.543 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Waiting for Solr server to stop
+2026-09-07 22:49:08.818 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Finished stopping Solr server
+2026-09-07 22:49:08.819 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2026-09-07 22:49:08.826 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case EXP5_Autopsy_2026 (exp5_autopsy_2026_20260907_224744) in D:\DIGITAL FORENSIC\EXP 5\EXP5_Autopsy_2026
+2026-09-07 22:49:10.833 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case EXP5_Autopsy_2026 (exp5_autopsy_2026_20260907_224744)
+2026-09-07 22:49:10.839 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2026-09-07 22:49:10.84 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case EXP5_Autopsy_2026 (exp5_autopsy_2026_20260907_224744)

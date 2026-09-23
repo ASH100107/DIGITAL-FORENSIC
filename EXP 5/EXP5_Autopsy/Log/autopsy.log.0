@@ -1,0 +1,60 @@
+2026-09-07 22:42:06.149 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2026-09-07 22:42:06.911 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2026-09-07 22:42:07.01 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: New Solr process PID: []
+2026-09-07 22:42:07.011 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting local Solr SOLR8 server
+2026-09-07 22:42:07.016 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2026-09-07 22:42:07.016 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Local Solr SOLR8 server is already running
+2026-09-07 22:42:07.062 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2026-09-07 22:42:08.413 org.sleuthkit.autopsy.keywordsearch.Server$Collection <init>
+INFO: Using Solr document queue size = 30
+2026-09-07 22:42:09.053 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.49.1.0 loaded in native mode
+2026-09-07 22:42:09.402 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened EXP5_Autopsy (exp5_autopsy_20260820_213533) in D:\DIGITAL FORENSIC\EXP 5\EXP5_Autopsy as the current case
+2026-09-07 22:42:09.403 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Retrieving images for case: autopsy.db...
+2026-09-07 22:42:09.404 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Opening all filesystems for image: 4Dell Latitude CPi.E01...
+2026-09-07 22:42:11.915 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2026-09-07 22:42:12.81 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:42:15.866 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:42:16.497 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent <init>
+INFO: Created DataContentTopComponent instance: org.sleuthkit.autopsy.corecomponents.DataContentTopComponent[Data Content,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=256,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:44:54.935 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2026-09-07 22:44:54.979 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:44:54.983 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-09-07 22:45:32.318 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Stopping Solr 8 server
+2026-09-07 22:45:32.319 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Setting Solr 8 directory: C:\Program Files\Autopsy-4.23.1\autopsy\solr
+2026-09-07 22:45:32.32 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Running Solr 8 command: [C:\Program Files\Autopsy-4.23.1\autopsy\solr\bin\autopsy-solr.cmd, stop, -k, jjk#09s, -p, 23232] from C:\Program Files\Autopsy-4.23.1\autopsy\solr
+2026-09-07 22:45:32.338 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Finished running Solr 8 command
+2026-09-07 22:45:32.339 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Waiting for Solr server to stop
+2026-09-07 22:45:33.762 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Finished stopping Solr server
+2026-09-07 22:45:33.762 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2026-09-07 22:45:34.084 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case EXP5_Autopsy (exp5_autopsy_20260820_213533) in D:\DIGITAL FORENSIC\EXP 5\EXP5_Autopsy
+2026-09-07 22:45:36.095 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case EXP5_Autopsy (exp5_autopsy_20260820_213533)
+2026-09-07 22:45:36.096 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2026-09-07 22:45:36.096 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case EXP5_Autopsy (exp5_autopsy_20260820_213533)

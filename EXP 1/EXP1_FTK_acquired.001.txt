@@ -1,0 +1,53 @@
+﻿Created By Exterro® FTK® Imager 8.3.0.27 
+
+Case Information: 
+Case Number: 1
+Evidence Number: 0
+Unique Description: 
+Examiner: SHAIK ASHRAF
+Notes:  
+Encrypted Password : N/A
+
+Computer Name: LAPTOP-1C14CNS1
+Windows Edition: Windows 11 Home Single Language
+Windows Version: Microsoft Windows 6.3.26200.9278
+OS build: 6.3.26200
+Processor: AMD Ryzen 7 7445HS w/ Radeon 740M Graphics     
+Installed RAM: 16 GB
+
+--------------------------------------------------------------
+
+Information for D:\DIGITAL FORENSIC\EXP 1\EXP1_FTK_acquired:
+
+Physical Evidentiary Item (Source) Information:
+  [Device Info]
+    Source Type: Logical
+  [Drive Geometry]
+    Bytes per Sector: 512
+    Sector Count: 204,800
+  [Image]
+    Image Type: Raw (dd)
+    Source data size: 100 MB
+    Sector count:    204800
+  [Computed Hashes]
+    MD5 Hash:    2f282b84e7e608d5852449ed940bfc51
+    SHA1 Hash:   2c2ceccb5ec5574f791d45b63c940cff20550f9a
+
+Verification Definitions:
+  Computed hash: The hash calculated of the source media during the creation or verify process
+  Stored verification hash: The hash calculated during image acquisition and stored inside the image
+  Report hash: The hash calculated during image acquisition and stored in the image summary report
+
+Image Information:
+  Acquisition started:   Mon Sep  7 23:30:23 2026 (2026-09-07T18:00:23Z)
+  Acquisition finished:  Mon Sep  7 23:30:24 2026 (2026-09-07T18:00:24Z)
+  Segment list:
+    D:\DIGITAL FORENSIC\EXP 1\EXP1_FTK_acquired.001
+
+Image Verification Results:
+  Verification started:  Mon Sep  7 23:30:24 2026 (2026-09-07T18:00:24Z)
+  Verification finished: Mon Sep  7 23:30:24 2026 (2026-09-07T18:00:24Z)
+  MD5 - Computed hash:             2f282b84e7e608d5852449ed940bfc51 : verified
+  MD5 - Report hash:               2f282b84e7e608d5852449ed940bfc51 : verified
+  SHA1 - Computed hash:            2c2ceccb5ec5574f791d45b63c940cff20550f9a : verified
+  SHA1 - Report hash:              2c2ceccb5ec5574f791d45b63c940cff20550f9a : verified

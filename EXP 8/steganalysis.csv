@@ -1,0 +1,3 @@
+
+File name,Above stego threshold?,Secret message size in bytes (ignore for clean files),Primary Sets,Chi Square,Sample Pairs,RS analysis,Fusion (mean)
+test.jpg.png,false,8931,0.0243849196836966,0.0019579394447364813,null,0.018467244322264695,0.014936701150232592

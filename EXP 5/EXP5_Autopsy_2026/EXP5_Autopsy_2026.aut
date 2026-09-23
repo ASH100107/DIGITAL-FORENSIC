@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2026/09/07 22:47:44 (IST)</CreatedDate>
+  <ModifiedDate>2026/09/07 22:47:46 (IST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.23.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.23.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>exp5_autopsy_2026_20260907_224744</Name>
+    <DisplayName>EXP5_Autopsy_2026</DisplayName>
+    <Number>2</Number>
+    <Examiner>Ashraf</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>

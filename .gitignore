@@ -1,0 +1,13 @@
+# Large forensic evidence images
+EXP 1/EXP1_FTK_acquired.001
+EXP 1/EXP1_acquired.dd
+EXP 1/evidence_source.img
+EXP 6/sleuthkit-4.14.0-win32/EVEDINCE/4Dell Latitude CPi.E01
+EXP 6/sleuthkit-4.14.0-win32/EVEDINCE/4Dell Latitude CPi.E02
+
+# Large forensic image files - kept locally, not pushed to GitHub
+EXP 1/evidence_source.img
+EXP 1/EXP1_acquired.dd
+EXP 1/EXP1_FTK_acquired.001
+EXP 6/sleuthkit-4.14.0-win32/EVEDINCE/4Dell Latitude CPi.E01
+EXP 6/sleuthkit-4.14.0-win32/EVEDINCE/4Dell Latitude CPi.E02
